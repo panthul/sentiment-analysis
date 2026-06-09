@@ -1,5 +1,4 @@
-﻿# Sentiment Analysis: VADER vs RoBERTa
-@"
+
 # Sentiment Analysis: VADER vs RoBERTa
 
 Comparing two sentiment analysis approaches on Amazon product reviews.
